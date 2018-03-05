@@ -1,0 +1,29 @@
+{
+    "name": "afeem-theme",
+    "displayName": "Afeem theme",
+    "description": "Afeem theme",
+    "version": "0.0.1",
+    "publisher": "prasanjit-singh",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"afeem",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Afeem",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Afeem-color-theme.json"
+            }
+        ]
+    }
+}
