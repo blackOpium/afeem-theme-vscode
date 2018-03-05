@@ -201,6 +201,7 @@
 				"entity.other.inherited-class.js"
 			],
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#ABB2BF"
 			}
 		},
