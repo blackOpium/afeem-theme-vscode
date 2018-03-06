@@ -3,16 +3,16 @@
     "displayName": "Afeem theme",
     "description": "Beautiful dark theme focussed mainly on front-end development.",
     "homepage": "https://pb03.github.io/afeem-theme/",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "prasanjit-singh",
     "license": "MIT",
     "repository": {
-		"type": "git",
-		"url": "https://github.com/blackOpium/afeem-theme-vscode.git"
-	},
-	"bugs": {
-		"url": "https://github.com/blackOpium/afeem-theme-vscode/issues"
-	},
+        "type": "git",
+        "url": "https://github.com/blackOpium/afeem-theme-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/blackOpium/afeem-theme-vscode/issues"
+    },
     "engines": {
         "vscode": "^1.19.0"
     },
@@ -20,16 +20,16 @@
         "Themes"
     ],
     "keywords": [
-		"afeem",
-		"dark",
-		"theme",
-		"color-theme"
+        "afeem",
+        "dark",
+        "theme",
+        "color-theme"
     ],
     "icon": "icon.png",
-	"galleryBanner": {
-		"color": "#1d2231",
-		"theme": "dark"
-	},
+    "galleryBanner": {
+        "color": "#1d2231",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
