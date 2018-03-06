@@ -374,7 +374,8 @@
 		"notification.infoBackground": "#8074da",
 		"focusBorder": "#738dd4",
 		"editorBracketMatch.background": "#262d3a",
-		"editorBracketMatch.border": "#42464c"
+		"editorBracketMatch.border": "#42464c",
+		"activityBarBadge.background": "#8074da"
 	},
 	"name": "Afeem",
 	"author": "Prasanjit Singh"
