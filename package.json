@@ -1,9 +1,9 @@
 {
     "name": "afeem-theme",
-    "displayName": "Afeem theme",
-    "description": "Beautiful dark theme focussed mainly on front-end development.",
+    "displayName": "Afeem Theme",
+    "description": "Beautiful dark theme focused on web languages.",
     "homepage": "https://pb03.github.io/afeem-theme/",
-    "version": "0.3.0",
+    "version": "0.5.0",
     "publisher": "prasanjit-singh",
     "license": "MIT",
     "repository": {
