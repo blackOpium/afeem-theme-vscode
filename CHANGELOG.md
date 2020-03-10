@@ -1,7 +1,8 @@
 # Change Log
-All notable changes to the "afeem" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## Version 0.4.0
+- Made background color a bit darker
+- Added colors for TypeScript interfaces
 
-## [Unreleased]
+## Version 0.1.0
 - Initial release
