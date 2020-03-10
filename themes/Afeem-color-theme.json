@@ -2,12 +2,6 @@
 	"type": "dark",
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#abb2bfff",
-				"background": "#1d2231ff"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -111,7 +105,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#E05252",
 				"fontStyle": "",
 				"foreground": "#FFFFFF"
 			}
@@ -120,7 +113,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#E0C285",
 				"foreground": "#523D14"
 			}
 		},
@@ -338,7 +330,23 @@
 			"settings": {
 				"foreground": "#90b0c3"
 			}
-		}
+		},
+		{
+			"scope": [
+				"support.type",
+				"entity.name.type.ts",
+				"entity.name.type.tsx",
+			],
+			"settings": {
+				"foreground": "#4cd0cc"
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#7e8fb7"
+			}
+		},
 	],
 	"colors": {
 		"input.background": "#262d3a",
@@ -351,7 +359,7 @@
 		"badge.background": "#363f52",
 		"scrollbarSlider.background": "#333c4d",
 		"scrollbarSlider.hoverBackground": "#3c475a",
-		"editor.background": "#1d2231",
+		"editor.background": "#171b27",
 		"editor.foreground": "#abb2bf",
 		"editor.selectionBackground": "#3d4148",
 		"editor.lineHighlightBackground": "#262d3a",
@@ -371,8 +379,6 @@
 		"sideBar.background": "#161a24",
 		"sideBar.foreground": "#68758e",
 		"titleBar.activeBackground": "#1d2127",
-		"notification.buttonBackground": "#8074da",
-		"notification.infoBackground": "#8074da",
 		"focusBorder": "#738dd4",
 		"editorBracketMatch.background": "#262d3a",
 		"editorBracketMatch.border": "#42464c",
